@@ -1,4 +1,4 @@
-# Hello, I'm Balwant Singh Bisht 👋
+# Hello 👋
 
 ## About Me
 I'm a data professional with a passion for data science and machine learning.
